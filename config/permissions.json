@@ -1,0 +1,16 @@
+{
+    "global_owners": ["Owner_ID"], 
+    "servers": {
+      "987654321098765432": {
+        "admins": ["Admin_id"],  
+        "users": {
+          "765432109876543210": ["restart_bot"]
+        },
+        "roles": {
+          "Admin": ["restart_bot", "shutdown_bot"],
+          "Moderator": []
+        }
+      }
+    }
+  }
+  

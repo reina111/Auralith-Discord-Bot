@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "!",
+  "owner_id": "123456789012345678",
+  "enabled_plugins": ["example_plugin"]
+}
